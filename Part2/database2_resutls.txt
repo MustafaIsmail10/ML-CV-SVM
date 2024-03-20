@@ -1,0 +1,28 @@
+Fitting 50 folds for each of 9 candidates, totalling 450 fits
+=====================================
+hyperprameters={'svc__C': 0.1, 'svc__degree': 10, 'svc__kernel': 'rbf'}
+mean=0.8213333333333332, std=0.0965539572812356, param={'svc__C': 0.1, 'svc__degree': 10, 'svc__kernel': 'rbf'}, confidence_interval(95%)=0.06308191875707392
+=====================================
+hyperprameters={'svc__C': 0.1, 'svc__degree': 10, 'svc__kernel': 'sigmoid'}
+mean=0.8279999999999998, std=0.09051948838663297, param={'svc__C': 0.1, 'svc__degree': 10, 'svc__kernel': 'sigmoid'}, confidence_interval(95%)=0.05913939907926687
+=====================================
+hyperprameters={'svc__C': 0.1, 'svc__degree': 10, 'svc__kernel': 'poly'}
+mean=0.6413333333333333, std=0.07646640511434488, param={'svc__C': 0.1, 'svc__degree': 10, 'svc__kernel': 'poly'}, confidence_interval(95%)=0.04995805134137199
+=====================================
+hyperprameters={'svc__C': 0.5, 'svc__degree': 10, 'svc__kernel': 'rbf'}
+mean=0.9000000000000001, std=0.0669991708074726, param={'svc__C': 0.5, 'svc__degree': 10, 'svc__kernel': 'rbf'}, confidence_interval(95%)=0.04377279159421543
+=====================================
+hyperprameters={'svc__C': 0.5, 'svc__degree': 10, 'svc__kernel': 'sigmoid'}
+mean=0.8666666666666666, std=0.06928203230275509, param={'svc__C': 0.5, 'svc__degree': 10, 'svc__kernel': 'sigmoid'}, confidence_interval(95%)=0.045264261104466665
+=====================================
+hyperprameters={'svc__C': 0.5, 'svc__degree': 10, 'svc__kernel': 'poly'}
+mean=0.6653333333333333, std=0.076, param={'svc__C': 0.5, 'svc__degree': 10, 'svc__kernel': 'poly'}, confidence_interval(95%)=0.049653333333333334
+=====================================
+hyperprameters={'svc__C': 1, 'svc__degree': 10, 'svc__kernel': 'rbf'}
+mean=0.924, std=0.05499090833947007, param={'svc__C': 1, 'svc__degree': 10, 'svc__kernel': 'rbf'}, confidence_interval(95%)=0.035927393448453776
+=====================================
+hyperprameters={'svc__C': 1, 'svc__degree': 10, 'svc__kernel': 'sigmoid'}
+mean=0.8106666666666666, std=0.08979977728257463, param={'svc__C': 1, 'svc__degree': 10, 'svc__kernel': 'sigmoid'}, confidence_interval(95%)=0.05866918782461542
+=====================================
+hyperprameters={'svc__C': 1, 'svc__degree': 10, 'svc__kernel': 'poly'}
+mean=0.68, std=0.07180219742846006, param={'svc__C': 1, 'svc__degree': 10, 'svc__kernel': 'poly'}, confidence_interval(95%)=0.0469107689865939

@@ -1,0 +1,672 @@
+==================PERFORMING NESTED CROSS VALIDATION FOR ACCURACY==================
+================KNN====================
+Best KNN Accuracy param ('cosine', 3)
+Best KNN Accuracy 0.7065868263473054
+Best KNN Accuracy std 0.027250068209982454
+Best KNN Accuracy confidence interval 0.010682026738313121
+================SVM====================
+Best SVM Accuracy param (0.5, 'poly')
+Best SVM Accuracy 0.7215568862275449
+Best SVM Accuracy std 0.027654473813114915
+Best SVM Accuracy confidence interval 0.010840553734741045
+================DECISION TREE====================
+Best Decision Tree Accuracy param gini
+Best Decision Tree Accuracy 0.7335329341317365
+Best Decision Tree Accuracy std 0.041161512467940815
+Best Decision Tree Accuracy confidence interval 0.0161353128874328
+================RANDOM FOREST====================
+Best Random Forest Accuracy param entropy
+Best Random Forest Accuracy 0.7748502994011975
+Best Random Forest Accuracy std 0.026333204219766704
+Best Random Forest Accuracy confidence interval 0.010322616054148548
+====================1====================
+================KNN====================
+Best KNN Accuracy param ('cosine', 3)
+Best KNN Accuracy 0.7597597597597597
+Best KNN Accuracy std 0.03170094343647447
+Best KNN Accuracy confidence interval 0.012426769827097991
+================SVM====================
+Best SVM Accuracy param (0.5, 'poly')
+Best SVM Accuracy 0.7657657657657657
+Best SVM Accuracy std 0.028635248600037678
+Best SVM Accuracy confidence interval 0.011225017451214769
+================DECISION TREE====================
+Best Decision Tree Accuracy param entropy
+Best Decision Tree Accuracy 0.7177177177177178
+Best Decision Tree Accuracy std 0.0443801803512545
+Best Decision Tree Accuracy confidence interval 0.017397030697691766
+================RANDOM FOREST====================
+Best Random Forest Accuracy param entropy
+Best Random Forest Accuracy 0.7525525525525525
+Best Random Forest Accuracy std 0.02271750938121014
+Best Random Forest Accuracy confidence interval 0.008905263677434374
+====================2====================
+================KNN====================
+Best KNN Accuracy param ('euclidean', 3)
+Best KNN Accuracy 0.6936936936936937
+Best KNN Accuracy std 0.028452201905542453
+Best KNN Accuracy confidence interval 0.011153263146972642
+================SVM====================
+Best SVM Accuracy param (0.5, 'poly')
+Best SVM Accuracy 0.7147147147147147
+Best SVM Accuracy std 0.027840276973850595
+Best SVM Accuracy confidence interval 0.010913388573749433
+================DECISION TREE====================
+Best Decision Tree Accuracy param entropy
+Best Decision Tree Accuracy 0.6606606606606606
+Best Decision Tree Accuracy std 0.03567358852449671
+Best Decision Tree Accuracy confidence interval 0.01398404670160271
+================RANDOM FOREST====================
+Best Random Forest Accuracy param gini
+Best Random Forest Accuracy 0.7603603603603604
+Best Random Forest Accuracy std 0.023509420482136088
+Best Random Forest Accuracy confidence interval 0.009215692828997346
+====================3====================
+================KNN====================
+Best KNN Accuracy param ('cosine', 3)
+Best KNN Accuracy 0.7514970059880239
+Best KNN Accuracy std 0.03374458817953941
+Best KNN Accuracy confidence interval 0.013227878566379447
+================SVM====================
+Best SVM Accuracy param (1, 'rbf')
+Best SVM Accuracy 0.7514970059880239
+Best SVM Accuracy std 0.026230443725903774
+Best SVM Accuracy confidence interval 0.01028233394055428
+================DECISION TREE====================
+Best Decision Tree Accuracy param gini
+Best Decision Tree Accuracy 0.7005988023952096
+Best Decision Tree Accuracy std 0.03096157576744776
+Best Decision Tree Accuracy confidence interval 0.012136937700839522
+================RANDOM FOREST====================
+Best Random Forest Accuracy param gini
+Best Random Forest Accuracy 0.755688622754491
+Best Random Forest Accuracy std 0.02395902563254054
+Best Random Forest Accuracy confidence interval 0.009391938047955892
+====================4====================
+================KNN====================
+Best KNN Accuracy param ('euclidean', 3)
+Best KNN Accuracy 0.6996996996996997
+Best KNN Accuracy std 0.03586066445679569
+Best KNN Accuracy confidence interval 0.01405738046706391
+================SVM====================
+Best SVM Accuracy param (0.5, 'poly')
+Best SVM Accuracy 0.7237237237237237
+Best SVM Accuracy std 0.03114932132127647
+Best SVM Accuracy confidence interval 0.012210533957940377
+================DECISION TREE====================
+Best Decision Tree Accuracy param entropy
+Best Decision Tree Accuracy 0.6786786786786787
+Best Decision Tree Accuracy std 0.04124468481818205
+Best Decision Tree Accuracy confidence interval 0.016167916448727362
+================RANDOM FOREST====================
+Best Random Forest Accuracy param gini
+Best Random Forest Accuracy 0.7429429429429429
+Best Random Forest Accuracy std 0.024328963144238092
+Best Random Forest Accuracy confidence interval 0.009536953552541331
+====================5====================
+================KNN====================
+Best KNN Accuracy param ('cosine', 3)
+Best KNN Accuracy 0.6876876876876877
+Best KNN Accuracy std 0.03436927341570021
+Best KNN Accuracy confidence interval 0.013472755178954483
+================SVM====================
+Best SVM Accuracy param (0.5, 'poly')
+Best SVM Accuracy 0.7267267267267268
+Best SVM Accuracy std 0.040842580617189365
+Best SVM Accuracy confidence interval 0.01601029160193823
+================DECISION TREE====================
+Best Decision Tree Accuracy param entropy
+Best Decision Tree Accuracy 0.6696696696696697
+Best Decision Tree Accuracy std 0.028622340469016187
+Best Decision Tree Accuracy confidence interval 0.011219957463854345
+================RANDOM FOREST====================
+Best Random Forest Accuracy param gini
+Best Random Forest Accuracy 0.7495495495495496
+Best Random Forest Accuracy std 0.030899743790917516
+Best Random Forest Accuracy confidence interval 0.012112699566039666
+====================6====================
+================KNN====================
+Best KNN Accuracy param ('euclidean', 3)
+Best KNN Accuracy 0.7425149700598802
+Best KNN Accuracy std 0.0416293904834354
+Best KNN Accuracy confidence interval 0.016318721069506676
+================SVM====================
+Best SVM Accuracy param (0.5, 'poly')
+Best SVM Accuracy 0.7485029940119761
+Best SVM Accuracy std 0.033929622158716734
+Best SVM Accuracy confidence interval 0.013300411886216959
+================DECISION TREE====================
+Best Decision Tree Accuracy param gini
+Best Decision Tree Accuracy 0.7035928143712575
+Best Decision Tree Accuracy std 0.03624609745537252
+Best Decision Tree Accuracy confidence interval 0.01420847020250603
+================RANDOM FOREST====================
+Best Random Forest Accuracy param gini
+Best Random Forest Accuracy 0.7700598802395209
+Best Random Forest Accuracy std 0.029158478296183808
+Best Random Forest Accuracy confidence interval 0.011430123492104052
+====================7====================
+================KNN====================
+Best KNN Accuracy param ('cosine', 3)
+Best KNN Accuracy 0.7447447447447447
+Best KNN Accuracy std 0.03145300456689744
+Best KNN Accuracy confidence interval 0.012329577790223796
+================SVM====================
+Best SVM Accuracy param (0.5, 'poly')
+Best SVM Accuracy 0.7627627627627628
+Best SVM Accuracy std 0.03319939262967315
+Best SVM Accuracy confidence interval 0.013014161910831873
+================DECISION TREE====================
+Best Decision Tree Accuracy param entropy
+Best Decision Tree Accuracy 0.6756756756756757
+Best Decision Tree Accuracy std 0.02964036590368556
+Best Decision Tree Accuracy confidence interval 0.01161902343424474
+================RANDOM FOREST====================
+Best Random Forest Accuracy param gini
+Best Random Forest Accuracy 0.7423423423423423
+Best Random Forest Accuracy std 0.02394794023624194
+Best Random Forest Accuracy confidence interval 0.00938759257260684
+====================8====================
+================KNN====================
+Best KNN Accuracy param ('cosine', 3)
+Best KNN Accuracy 0.7447447447447447
+Best KNN Accuracy std 0.0276102645515947
+Best KNN Accuracy confidence interval 0.010823223704225123
+================SVM====================
+Best SVM Accuracy param (0.5, 'poly')
+Best SVM Accuracy 0.7237237237237237
+Best SVM Accuracy std 0.025425502066405075
+Best SVM Accuracy confidence interval 0.009966796810030789
+================DECISION TREE====================
+Best Decision Tree Accuracy param entropy
+Best Decision Tree Accuracy 0.6996996996996997
+Best Decision Tree Accuracy std 0.03455329988894733
+Best Decision Tree Accuracy confidence interval 0.013544893556467352
+================RANDOM FOREST====================
+Best Random Forest Accuracy param entropy
+Best Random Forest Accuracy 0.7663663663663663
+Best Random Forest Accuracy std 0.01721437535076449
+Best Random Forest Accuracy confidence interval 0.00674803513749968
+====================9====================
+================KNN====================
+Best KNN Accuracy param ('cosine', 3)
+Best KNN Accuracy 0.7455089820359282
+Best KNN Accuracy std 0.032952570478866294
+Best KNN Accuracy confidence interval 0.012917407627715588
+================SVM====================
+Best SVM Accuracy param (0.5, 'poly')
+Best SVM Accuracy 0.7395209580838323
+Best SVM Accuracy std 0.02561850038057865
+Best SVM Accuracy confidence interval 0.010042452149186832
+================DECISION TREE====================
+Best Decision Tree Accuracy param gini
+Best Decision Tree Accuracy 0.6616766467065869
+Best Decision Tree Accuracy std 0.03471380348676147
+Best Decision Tree Accuracy confidence interval 0.013607810966810496
+================RANDOM FOREST====================
+Best Random Forest Accuracy param entropy
+Best Random Forest Accuracy 0.7550898203592814
+Best Random Forest Accuracy std 0.02545696997602581
+Best Random Forest Accuracy confidence interval 0.009979132230602119
+====================10====================
+================KNN====================
+Best KNN Accuracy param ('euclidean', 3)
+Best KNN Accuracy 0.7087087087087087
+Best KNN Accuracy std 0.03417251124898644
+Best KNN Accuracy confidence interval 0.013395624409602683
+================SVM====================
+Best SVM Accuracy param (1, 'rbf')
+Best SVM Accuracy 0.7387387387387387
+Best SVM Accuracy std 0.02445328787507755
+Best SVM Accuracy confidence interval 0.0095856888470304
+================DECISION TREE====================
+Best Decision Tree Accuracy param entropy
+Best Decision Tree Accuracy 0.6636636636636637
+Best Decision Tree Accuracy std 0.038929194983165535
+Best Decision Tree Accuracy confidence interval 0.01526024443340089
+================RANDOM FOREST====================
+Best Random Forest Accuracy param entropy
+Best Random Forest Accuracy 0.7525525525525525
+Best Random Forest Accuracy std 0.029759650667720263
+Best Random Forest Accuracy confidence interval 0.011665783061746343
+====================11====================
+================KNN====================
+Best KNN Accuracy param ('cosine', 3)
+Best KNN Accuracy 0.7057057057057057
+Best KNN Accuracy std 0.026748940865102388
+Best KNN Accuracy confidence interval 0.010485584819120135
+================SVM====================
+Best SVM Accuracy param (0.5, 'poly')
+Best SVM Accuracy 0.7327327327327328
+Best SVM Accuracy std 0.029491149836049335
+Best SVM Accuracy confidence interval 0.01156053073573134
+================DECISION TREE====================
+Best Decision Tree Accuracy param entropy
+Best Decision Tree Accuracy 0.7117117117117117
+Best Decision Tree Accuracy std 0.04110082463553243
+Best Decision Tree Accuracy confidence interval 0.016111523257128713
+================RANDOM FOREST====================
+Best Random Forest Accuracy param entropy
+Best Random Forest Accuracy 0.751951951951952
+Best Random Forest Accuracy std 0.024678317187364268
+Best Random Forest Accuracy confidence interval 0.009673900337446794
+====================12====================
+================KNN====================
+Best KNN Accuracy param ('cosine', 3)
+Best KNN Accuracy 0.718562874251497
+Best KNN Accuracy std 0.03984470961522952
+Best KNN Accuracy confidence interval 0.015619126169169972
+================SVM====================
+Best SVM Accuracy param (0.5, 'poly')
+Best SVM Accuracy 0.7365269461077845
+Best SVM Accuracy std 0.028920725928578188
+Best SVM Accuracy confidence interval 0.01133692456400265
+================DECISION TREE====================
+Best Decision Tree Accuracy param entropy
+Best Decision Tree Accuracy 0.6916167664670658
+Best Decision Tree Accuracy std 0.03575860688836284
+Best Decision Tree Accuracy confidence interval 0.014017373900238234
+================RANDOM FOREST====================
+Best Random Forest Accuracy param entropy
+Best Random Forest Accuracy 0.7646706586826347
+Best Random Forest Accuracy std 0.024795488520992753
+Best Random Forest Accuracy confidence interval 0.009719831500229158
+====================13====================
+================KNN====================
+Best KNN Accuracy param ('cosine', 3)
+Best KNN Accuracy 0.7147147147147147
+Best KNN Accuracy std 0.030127898643089297
+Best KNN Accuracy confidence interval 0.011810136268091003
+================SVM====================
+Best SVM Accuracy param (0.5, 'poly')
+Best SVM Accuracy 0.7477477477477478
+Best SVM Accuracy std 0.022593018264178154
+Best SVM Accuracy confidence interval 0.008856463159557838
+================DECISION TREE====================
+Best Decision Tree Accuracy param gini
+Best Decision Tree Accuracy 0.6966966966966966
+Best Decision Tree Accuracy std 0.037189595330332205
+Best Decision Tree Accuracy confidence interval 0.014578321369490225
+================RANDOM FOREST====================
+Best Random Forest Accuracy param gini
+Best Random Forest Accuracy 0.7657657657657657
+Best Random Forest Accuracy std 0.02582180025660204
+Best Random Forest Accuracy confidence interval 0.010122145700588
+====================14====================
+================KNN====================
+Best KNN Accuracy param ('cosine', 3)
+Best KNN Accuracy 0.7147147147147147
+Best KNN Accuracy std 0.02783517799172234
+Best KNN Accuracy confidence interval 0.010911389772755156
+================SVM====================
+Best SVM Accuracy param (0.5, 'poly')
+Best SVM Accuracy 0.7297297297297297
+Best SVM Accuracy std 0.031821138611493
+Best SVM Accuracy confidence interval 0.012473886335705255
+================DECISION TREE====================
+Best Decision Tree Accuracy param entropy
+Best Decision Tree Accuracy 0.6726726726726727
+Best Decision Tree Accuracy std 0.031425352898319464
+Best Decision Tree Accuracy confidence interval 0.01231873833614123
+================RANDOM FOREST====================
+Best Random Forest Accuracy param gini
+Best Random Forest Accuracy 0.7513513513513513
+Best Random Forest Accuracy std 0.029639100129724167
+Best Random Forest Accuracy confidence interval 0.011618527250851874
+====================15====================
+==================================================================================================
+==================================================================================================
+==================================================================================================
+==================PERFORMING NESTED CROSS VALIDATION FOR FSCORE==================
+================KNN====================
+Best KNN F1 score param ('cosine', 3)
+Best KNN F1 score 0.7065868263473054
+Best KNN F1 score std 0.027250068209982454
+Best KNN F1 score confidence interval 0.010682026738313121
+================SVM====================
+Best SVM F1 score param (0.5, 'poly')
+Best SVM F1 score 0.7215568862275449
+Best SVM F1 score std 0.02765447381311492
+Best SVM F1 score confidence interval 0.010840553734741049
+================DECISION TREE====================
+Best Decision Tree F1 score param gini
+Best Decision Tree F1 score 0.7335329341317365
+Best Decision Tree F1 score std 0.04972153078605664
+Best Decision Tree F1 score confidence interval 0.019490840068134205
+================RANDOM FOREST====================
+Best Random Forest F1 score param entropy
+Best Random Forest F1 score 0.778443113772455
+Best Random Forest F1 score std 0.023790569703708398
+Best Random Forest F1 score confidence interval 0.009325903323853692
+====================1====================
+================KNN====================
+Best KNN F1 score param ('cosine', 3)
+Best KNN F1 score 0.7597597597597598
+Best KNN F1 score std 0.03170094343647447
+Best KNN F1 score confidence interval 0.012426769827097991
+================SVM====================
+Best SVM F1 score param (0.5, 'poly')
+Best SVM F1 score 0.7657657657657657
+Best SVM F1 score std 0.028635248600037678
+Best SVM F1 score confidence interval 0.011225017451214769
+================DECISION TREE====================
+Best Decision Tree F1 score param entropy
+Best Decision Tree F1 score 0.7357357357357357
+Best Decision Tree F1 score std 0.040416989321703026
+Best Decision Tree F1 score confidence interval 0.015843459814107584
+================RANDOM FOREST====================
+Best Random Forest F1 score param gini
+Best Random Forest F1 score 0.7477477477477479
+Best Random Forest F1 score std 0.021987065198217713
+Best Random Forest F1 score confidence interval 0.008618929557701344
+====================2====================
+================KNN====================
+Best KNN F1 score param ('euclidean', 3)
+Best KNN F1 score 0.6936936936936937
+Best KNN F1 score std 0.028452201905542453
+Best KNN F1 score confidence interval 0.011153263146972642
+================SVM====================
+Best SVM F1 score param (0.5, 'poly')
+Best SVM F1 score 0.7147147147147147
+Best SVM F1 score std 0.027840276973850605
+Best SVM F1 score confidence interval 0.010913388573749436
+================DECISION TREE====================
+Best Decision Tree F1 score param gini
+Best Decision Tree F1 score 0.6876876876876877
+Best Decision Tree F1 score std 0.0416107408481697
+Best Decision Tree F1 score confidence interval 0.016311410412482522
+================RANDOM FOREST====================
+Best Random Forest F1 score param gini
+Best Random Forest F1 score 0.7633633633633634
+Best Random Forest F1 score std 0.02130830764941046
+Best Random Forest F1 score confidence interval 0.0083528565985689
+====================3====================
+================KNN====================
+Best KNN F1 score param ('cosine', 3)
+Best KNN F1 score 0.7514970059880239
+Best KNN F1 score std 0.03374458817953941
+Best KNN F1 score confidence interval 0.013227878566379447
+================SVM====================
+Best SVM F1 score param (1, 'rbf')
+Best SVM F1 score 0.7514970059880239
+Best SVM F1 score std 0.02623044372590378
+Best SVM F1 score confidence interval 0.010282333940554281
+================DECISION TREE====================
+Best Decision Tree F1 score param entropy
+Best Decision Tree F1 score 0.6467065868263473
+Best Decision Tree F1 score std 0.03326485307059685
+Best Decision Tree F1 score confidence interval 0.013039822403673965
+================RANDOM FOREST====================
+Best Random Forest F1 score param entropy
+Best Random Forest F1 score 0.7395209580838323
+Best Random Forest F1 score std 0.02157064282930835
+Best Random Forest F1 score confidence interval 0.008455691989088873
+====================4====================
+================KNN====================
+Best KNN F1 score param ('euclidean', 3)
+Best KNN F1 score 0.6996996996996997
+Best KNN F1 score std 0.03586066445679571
+Best KNN F1 score confidence interval 0.014057380467063918
+================SVM====================
+Best SVM F1 score param (0.5, 'poly')
+Best SVM F1 score 0.7237237237237237
+Best SVM F1 score std 0.03114932132127647
+Best SVM F1 score confidence interval 0.012210533957940377
+================DECISION TREE====================
+Best Decision Tree F1 score param entropy
+Best Decision Tree F1 score 0.6576576576576577
+Best Decision Tree F1 score std 0.041841342365554215
+Best Decision Tree F1 score confidence interval 0.01640180620729725
+================RANDOM FOREST====================
+Best Random Forest F1 score param gini
+Best Random Forest F1 score 0.7507507507507507
+Best Random Forest F1 score std 0.025161993489003852
+Best Random Forest F1 score confidence interval 0.00986350144768951
+====================5====================
+================KNN====================
+Best KNN F1 score param ('cosine', 3)
+Best KNN F1 score 0.6876876876876877
+Best KNN F1 score std 0.034369273415700216
+Best KNN F1 score confidence interval 0.013472755178954484
+================SVM====================
+Best SVM F1 score param (0.5, 'poly')
+Best SVM F1 score 0.7267267267267268
+Best SVM F1 score std 0.04084258061718936
+Best SVM F1 score confidence interval 0.016010291601938228
+================DECISION TREE====================
+Best Decision Tree F1 score param entropy
+Best Decision Tree F1 score 0.6696696696696697
+Best Decision Tree F1 score std 0.03748613133157799
+Best Decision Tree F1 score confidence interval 0.014694563481978572
+================RANDOM FOREST====================
+Best Random Forest F1 score param gini
+Best Random Forest F1 score 0.7435435435435436
+Best Random Forest F1 score std 0.027201882847317012
+Best Random Forest F1 score confidence interval 0.010663138076148267
+====================6====================
+================KNN====================
+Best KNN F1 score param ('euclidean', 3)
+Best KNN F1 score 0.7425149700598802
+Best KNN F1 score std 0.04162939048343542
+Best KNN F1 score confidence interval 0.016318721069506683
+================SVM====================
+Best SVM F1 score param (0.5, 'poly')
+Best SVM F1 score 0.7485029940119761
+Best SVM F1 score std 0.03392962215871674
+Best SVM F1 score confidence interval 0.013300411886216962
+================DECISION TREE====================
+Best Decision Tree F1 score param gini
+Best Decision Tree F1 score 0.6916167664670658
+Best Decision Tree F1 score std 0.042068236728379636
+Best Decision Tree F1 score confidence interval 0.016490748797524817
+================RANDOM FOREST====================
+Best Random Forest F1 score param entropy
+Best Random Forest F1 score 0.7754491017964072
+Best Random Forest F1 score std 0.03223102756119803
+Best Random Forest F1 score confidence interval 0.012634562803989627
+====================7====================
+================KNN====================
+Best KNN F1 score param ('cosine', 3)
+Best KNN F1 score 0.7447447447447447
+Best KNN F1 score std 0.031453004566897445
+Best KNN F1 score confidence interval 0.0123295777902238
+================SVM====================
+Best SVM F1 score param (0.5, 'poly')
+Best SVM F1 score 0.7627627627627628
+Best SVM F1 score std 0.03319939262967316
+Best SVM F1 score confidence interval 0.013014161910831878
+================DECISION TREE====================
+Best Decision Tree F1 score param entropy
+Best Decision Tree F1 score 0.6576576576576577
+Best Decision Tree F1 score std 0.03000796759625069
+Best Decision Tree F1 score confidence interval 0.011763123297730271
+================RANDOM FOREST====================
+Best Random Forest F1 score param gini
+Best Random Forest F1 score 0.7423423423423424
+Best Random Forest F1 score std 0.024727269780254347
+Best Random Forest F1 score confidence interval 0.009693089753859704
+====================8====================
+================KNN====================
+Best KNN F1 score param ('cosine', 3)
+Best KNN F1 score 0.7447447447447447
+Best KNN F1 score std 0.0276102645515947
+Best KNN F1 score confidence interval 0.010823223704225123
+================SVM====================
+Best SVM F1 score param (0.5, 'poly')
+Best SVM F1 score 0.7237237237237237
+Best SVM F1 score std 0.025425502066405082
+Best SVM F1 score confidence interval 0.009966796810030792
+================DECISION TREE====================
+Best Decision Tree F1 score param entropy
+Best Decision Tree F1 score 0.6936936936936937
+Best Decision Tree F1 score std 0.033248732114167436
+Best Decision Tree F1 score confidence interval 0.013033502988753633
+================RANDOM FOREST====================
+Best Random Forest F1 score param entropy
+Best Random Forest F1 score 0.7681681681681682
+Best Random Forest F1 score std 0.019354485756446056
+Best Random Forest F1 score confidence interval 0.007586958416526854
+====================9====================
+================KNN====================
+Best KNN F1 score param ('cosine', 3)
+Best KNN F1 score 0.7455089820359282
+Best KNN F1 score std 0.03295257047886631
+Best KNN F1 score confidence interval 0.012917407627715594
+================SVM====================
+Best SVM F1 score param (0.5, 'poly')
+Best SVM F1 score 0.7395209580838323
+Best SVM F1 score std 0.025618500380578654
+Best SVM F1 score confidence interval 0.010042452149186833
+================DECISION TREE====================
+Best Decision Tree F1 score param gini
+Best Decision Tree F1 score 0.6736526946107785
+Best Decision Tree F1 score std 0.03715566780300507
+Best Decision Tree F1 score confidence interval 0.014565021778777987
+================RANDOM FOREST====================
+Best Random Forest F1 score param entropy
+Best Random Forest F1 score 0.7532934131736526
+Best Random Forest F1 score std 0.02785116561890807
+Best Random Forest F1 score confidence interval 0.010917656922611964
+====================10====================
+================KNN====================
+Best KNN F1 score param ('euclidean', 3)
+Best KNN F1 score 0.7087087087087086
+Best KNN F1 score std 0.03417251124898645
+Best KNN F1 score confidence interval 0.013395624409602689
+================SVM====================
+Best SVM F1 score param (1, 'rbf')
+Best SVM F1 score 0.7387387387387387
+Best SVM F1 score std 0.024453287875077563
+Best SVM F1 score confidence interval 0.009585688847030404
+================DECISION TREE====================
+Best Decision Tree F1 score param entropy
+Best Decision Tree F1 score 0.6606606606606606
+Best Decision Tree F1 score std 0.032176631885847844
+Best Decision Tree F1 score confidence interval 0.012613239699252354
+================RANDOM FOREST====================
+Best Random Forest F1 score param gini
+Best Random Forest F1 score 0.7741741741741741
+Best Random Forest F1 score std 0.025937391097539734
+Best Random Forest F1 score confidence interval 0.010167457310235575
+====================11====================
+================KNN====================
+Best KNN F1 score param ('cosine', 3)
+Best KNN F1 score 0.7057057057057057
+Best KNN F1 score std 0.026748940865102388
+Best KNN F1 score confidence interval 0.010485584819120135
+================SVM====================
+Best SVM F1 score param (0.5, 'poly')
+Best SVM F1 score 0.7327327327327328
+Best SVM F1 score std 0.029491149836049307
+Best SVM F1 score confidence interval 0.011560530735731328
+================DECISION TREE====================
+Best Decision Tree F1 score param entropy
+Best Decision Tree F1 score 0.6936936936936937
+Best Decision Tree F1 score std 0.04084947951502063
+Best Decision Tree F1 score confidence interval 0.016012995969888085
+================RANDOM FOREST====================
+Best Random Forest F1 score param entropy
+Best Random Forest F1 score 0.7507507507507507
+Best Random Forest F1 score std 0.02262601100312372
+Best Random Forest F1 score confidence interval 0.0088693963132245
+====================12====================
+================KNN====================
+Best KNN F1 score param ('cosine', 3)
+Best KNN F1 score 0.7185628742514969
+Best KNN F1 score std 0.03984470961522952
+Best KNN F1 score confidence interval 0.015619126169169972
+================SVM====================
+Best SVM F1 score param (0.5, 'poly')
+Best SVM F1 score 0.7365269461077845
+Best SVM F1 score std 0.0289207259285782
+Best SVM F1 score confidence interval 0.011336924564002654
+================DECISION TREE====================
+Best Decision Tree F1 score param entropy
+Best Decision Tree F1 score 0.7245508982035929
+Best Decision Tree F1 score std 0.0329925636489445
+Best Decision Tree F1 score confidence interval 0.012933084950386243
+================RANDOM FOREST====================
+Best Random Forest F1 score param entropy
+Best Random Forest F1 score 0.765868263473054
+Best Random Forest F1 score std 0.024183834207725203
+Best Random Forest F1 score confidence interval 0.009480063009428278
+====================13====================
+================KNN====================
+Best KNN F1 score param ('cosine', 3)
+Best KNN F1 score 0.7147147147147147
+Best KNN F1 score std 0.030127898643089297
+Best KNN F1 score confidence interval 0.011810136268091003
+================SVM====================
+Best SVM F1 score param (0.5, 'poly')
+Best SVM F1 score 0.7477477477477479
+Best SVM F1 score std 0.022593018264178154
+Best SVM F1 score confidence interval 0.008856463159557838
+================DECISION TREE====================
+Best Decision Tree F1 score param entropy
+Best Decision Tree F1 score 0.6876876876876877
+Best Decision Tree F1 score std 0.03970342395270964
+Best Decision Tree F1 score confidence interval 0.015563742189462179
+================RANDOM FOREST====================
+Best Random Forest F1 score param entropy
+Best Random Forest F1 score 0.7621621621621621
+Best Random Forest F1 score std 0.026892817982722136
+Best Random Forest F1 score confidence interval 0.010541984649227076
+====================14====================
+================KNN====================
+Best KNN F1 score param ('cosine', 3)
+Best KNN F1 score 0.7147147147147147
+Best KNN F1 score std 0.02783517799172234
+Best KNN F1 score confidence interval 0.010911389772755156
+================SVM====================
+Best SVM F1 score param (0.5, 'poly')
+Best SVM F1 score 0.7297297297297297
+Best SVM F1 score std 0.031821138611493015
+Best SVM F1 score confidence interval 0.012473886335705262
+================DECISION TREE====================
+Best Decision Tree F1 score param gini
+Best Decision Tree F1 score 0.6966966966966966
+Best Decision Tree F1 score std 0.03420931472512157
+Best Decision Tree F1 score confidence interval 0.013410051372247656
+================RANDOM FOREST====================
+Best Random Forest F1 score param gini
+Best Random Forest F1 score 0.7447447447447447
+Best Random Forest F1 score std 0.02444038714618682
+Best Random Forest F1 score confidence interval 0.009580631761305233
+====================15====================
+================OVERALL====================
+=======================KNN=======================
+KNN F scores [0.7065868263473054, 0.7597597597597598, 0.6936936936936937, 0.7514970059880239, 0.6996996996996997, 0.6876876876876877, 0.7425149700598802, 0.7447447447447447, 0.7447447447447447, 0.7455089820359282, 0.7087087087087086, 0.7057057057057057, 0.7185628742514969, 0.7147147147147147, 0.7147147147147147]
+KNN F scores mean 0.7225896555237873
+KNN F scores std 0.022468375687817597
+KNN F scores confidence interval 0.011370566927752557
+KNN Accuracy [0.7065868263473054, 0.7597597597597597, 0.6936936936936937, 0.7514970059880239, 0.6996996996996997, 0.6876876876876877, 0.7425149700598802, 0.7447447447447447, 0.7447447447447447, 0.7455089820359282, 0.7087087087087087, 0.7057057057057057, 0.718562874251497, 0.7147147147147147, 0.7147147147147147]
+KNN Accuracy mean 0.7225896555237873
+KNN Accuracy std 0.02246837568781758
+KNN Accuracy confidence interval 0.011370566927752549
+=======================SVM=======================
+SVM F scores [0.7215568862275449, 0.7657657657657657, 0.7147147147147147, 0.7514970059880239, 0.7237237237237237, 0.7267267267267268, 0.7485029940119761, 0.7627627627627628, 0.7237237237237237, 0.7395209580838323, 0.7387387387387387, 0.7327327327327328, 0.7365269461077845, 0.7477477477477479, 0.7297297297297297]
+SVM F scores mean 0.7375980771190352
+SVM F scores std 0.01464620863216402
+SVM F scores confidence interval 0.007412004223346873
+SVM Accuracy [0.7215568862275449, 0.7657657657657657, 0.7147147147147147, 0.7514970059880239, 0.7237237237237237, 0.7267267267267268, 0.7485029940119761, 0.7627627627627628, 0.7237237237237237, 0.7395209580838323, 0.7387387387387387, 0.7327327327327328, 0.7365269461077845, 0.7477477477477478, 0.7297297297297297]
+SVM Accuracy mean 0.7375980771190352
+SVM Accuracy std 0.014646208632164015
+SVM Accuracy confidence interval 0.00741200422334687
+=======================DECISION TREE=======================
+Decision Tree F scores [0.7215568862275449, 0.7657657657657657, 0.7147147147147147, 0.7514970059880239, 0.7237237237237237, 0.7267267267267268, 0.7485029940119761, 0.7627627627627628, 0.7237237237237237, 0.7395209580838323, 0.7387387387387387, 0.7327327327327328, 0.7365269461077845, 0.7477477477477479, 0.7297297297297297]
+Decision Tree F scores mean 0.7375980771190352
+Decision Tree F scores std 0.01464620863216402
+Decision Tree F scores confidence interval 0.007412004223346873
+Decision Tree Accuracy [0.7215568862275449, 0.7657657657657657, 0.7147147147147147, 0.7514970059880239, 0.7237237237237237, 0.7267267267267268, 0.7485029940119761, 0.7627627627627628, 0.7237237237237237, 0.7395209580838323, 0.7387387387387387, 0.7327327327327328, 0.7365269461077845, 0.7477477477477478, 0.7297297297297297]
+Decision Tree Accuracy mean 0.7375980771190352
+Decision Tree Accuracy std 0.014646208632164015
+Decision Tree Accuracy confidence interval 0.00741200422334687
+=======================RANDOM FOREST=======================
+Random Forest F scores [0.778443113772455, 0.7477477477477479, 0.7633633633633634, 0.7395209580838323, 0.7507507507507507, 0.7435435435435436, 0.7754491017964072, 0.7423423423423424, 0.7681681681681682, 0.7532934131736526, 0.7741741741741741, 0.7507507507507507, 0.765868263473054, 0.7621621621621621, 0.7447447447447447]
+Random Forest F scores mean 0.7573548398698101
+Random Forest F scores std 0.012630215064712359
+Random Forest F scores confidence interval 0.006391770713674135
+Random Forest Accuracy [0.7748502994011975, 0.7525525525525525, 0.7603603603603604, 0.755688622754491, 0.7429429429429429, 0.7495495495495496, 0.7700598802395209, 0.7423423423423423, 0.7663663663663663, 0.7550898203592814, 0.7525525525525525, 0.751951951951952, 0.7646706586826347, 0.7657657657657657, 0.7513513513513513]
+Random Forest Accuracy mean 0.7570730011448573
+Random Forest Accuracy std 0.00928829839327531
+Random Forest Accuracy confidence interval 0.0047005275322566905

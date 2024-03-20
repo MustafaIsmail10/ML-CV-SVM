@@ -1,0 +1,12 @@
+C:  0.1  Kernel:  rbf  Accuracy:  1.0  F1 Score:  1.0
+[0 0 0 ... 0 0 0] {0, 1}
+C:  0.1  Kernel:  sigmoid  Accuracy:  0.51  F1 Score:  0.5983606557377048
+[1 1 1 ... 0 0 0] {0, 1}
+C:  0.1  Kernel:  poly  Accuracy:  1.0  F1 Score:  1.0
+[0 0 0 ... 0 0 0] {0, 1}
+C:  1  Kernel:  rbf  Accuracy:  1.0  F1 Score:  1.0
+[0 0 0 ... 0 0 0] {0, 1}
+C:  1  Kernel:  sigmoid  Accuracy:  0.625  F1 Score:  0.6724890829694323
+[0 0 0 ... 1 1 1] {0, 1}
+C:  1  Kernel:  poly  Accuracy:  1.0  F1 Score:  1.0
+[0 0 0 ... 0 0 0] {0, 1}
